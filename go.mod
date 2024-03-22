@@ -1,4 +1,4 @@
-module blockEmulator
+module github.com/HuangLab-SYSU/block-emulator
 
 go 1.19
 
